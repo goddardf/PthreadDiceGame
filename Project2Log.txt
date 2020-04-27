@@ -1,0 +1,13 @@
+Faith Goddard
+Project 2 Log Start
+Player D: gets 3 and 3 with a sum 6
+Player A: gets 2 and 2 with a sum 4
+Player B: gets 3 and 2 with a sum 5
+Player C: gets 3 and 5 with a sum 8
+Player D: gets 5 and 3 with a sum 8
+Player A: gets 1 and 4 with a sum 5
+Player B: gets 5 and 4 with a sum 9
+Player C: gets 6 and 3 with a sum 9
+Player D: gets 3 and 4 with a sum 7
+Player A: gets 6 and 3 with a sum 9
+Dealer: The winning team is A and C
